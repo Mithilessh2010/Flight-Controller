@@ -1,14 +1,11 @@
 # Rocket Flight Controller
 
 This is my **custom rocket flight controller** that I designed from scratch. I followed a flight controller guide and **added all the optional parts to make the board nicer, safer, and more reliable**.
-
-This board is made for **rockets**, not drones.
-
 ---
 
 ## What This Board Does
 
-This flight controller handles the main electronics needed for a rocket:
+This flight controller handles the main electronics:
 
 - Controls servos (for fins or thrust vector control)
 - Measures movement and rotation with an IMU
@@ -87,12 +84,3 @@ The board was prepared for manufacturing with **JLCPCB**.
 - 2-layer PCB  
 - Parts chosen from LCSC  
 - Designed to be easy to assemble  
-
----
-
-## Extra Notes
-
-- USB data lines are length-matched  
-- SD card has the required pull-ups  
-- External crystals are used for better timing  
-- All optional parts were added on purpose  
