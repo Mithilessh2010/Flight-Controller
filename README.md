@@ -68,6 +68,8 @@ I included **all optional components** like LEDs, crystals, pull-up resistors, a
 | microSD socket | Data storage | SMD | Flight logs |
 | USB-C connector | Power + data | SMD | Programming |
 | Status LED | Indicator | 0402 | Optional (added) |
+| JLCPCB (Total) | The PCBA | PCB | Total: $320 |
+
 
 ---
 
