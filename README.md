@@ -81,7 +81,9 @@ The PCB was designed in **KiCad**. I paid attention to power routing, grounding,
 
 The board was prepared for manufacturing with **JLCPCB**.
 
-![JLCPCB Cost](assets/Total%20Cost.png)
+<img width="1426" height="668" alt="image" src="https://github.com/user-attachments/assets/3152ae2d-ffb2-44c8-a6c1-f5e14c780eeb" />
+<img width="1426" height="668" alt="image" src="https://github.com/user-attachments/assets/5023e7e7-6c89-41cc-83a5-396e3cbb4045" />
+
 
 - 2-layer PCB  
 - Parts chosen from LCSC  
