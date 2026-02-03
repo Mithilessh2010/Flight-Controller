@@ -1,7 +1,5 @@
 # Rocket Flight Controller
 
-This is my **custom rocket flight controller** that I designed from scratch. I followed a flight controller guide and **added all the optional parts to make the board nicer, safer, and more reliable**.
----
 
 ## What This Board Does
 
@@ -14,8 +12,6 @@ This flight controller handles the main electronics:
 - Uses USB-C for programming and power
 - Charges a 2-cell LiPo battery
 - Provides stable 5V and 3.3V power
-
-I included **all optional components** like LEDs, crystals, pull-up resistors, and protection parts so the board works more reliably and is easier to debug.
 
 ---
 
